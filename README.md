@@ -6,7 +6,7 @@ The goal of this project is to reverse-engineer the Google homepage visually, no
 
     THOUGHTS
 
-
+There are so many ways to accompish the same effect visually and I expiremented with a few while building this page. It's a little sloppy in style and probably looks a little hacked together, but I think it looks pretty good!
 
     
 
